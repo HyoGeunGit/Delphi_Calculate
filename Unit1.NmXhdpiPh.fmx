@@ -1,0 +1,50 @@
+inherited Form1_NmXhdpiPh: TForm1_NmXhdpiPh
+  ClientHeight = 375
+  DesignerMasterStyle = 0
+  inherited btnAdditon: TButton
+    Position.X = 24.000000000000000000
+    Position.Y = 272.000000000000000000
+    Text = '+'
+  end
+  inherited btnDivision: TButton
+    Position.X = 432.000000000000000000
+    Position.Y = 272.000000000000000000
+    Text = '/'
+  end
+  inherited btnMultiple: TButton
+    Position.X = 296.000000000000000000
+    Position.Y = 272.000000000000000000
+    Text = 'X'
+  end
+  inherited btnSubtraction: TButton
+    Position.X = 160.000000000000000000
+    Position.Y = 272.000000000000000000
+    Text = '-'
+  end
+  inherited Rectangle1: TRectangle
+    Position.X = 64.000000000000000000
+    Position.Y = 192.000000000000000000
+    Size.Width = 153.000000000000000000
+  end
+  inherited Rectangle2: TRectangle
+    Position.X = 240.000000000000000000
+  end
+  inherited Rectangle3: TRectangle
+    Position.X = 440.000000000000000000
+  end
+  inherited edtFirst: TEdit
+    TabOrder = 9
+    Position.X = 64.000000000000000000
+    Position.Y = 192.000000000000000000
+    Size.Height = 32.000000000000000000
+  end
+  inherited edtSecond: TEdit
+    Position.Y = 192.000000000000000000
+    Size.Height = 32.000000000000000000
+  end
+  inherited lblResult: TLabel
+    Position.X = 440.000000000000000000
+    Position.Y = 192.000000000000000000
+    Size.Width = 153.000000000000000000
+  end
+end

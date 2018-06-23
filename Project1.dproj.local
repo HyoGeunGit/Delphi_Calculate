@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.804,=C:\Users\shimh\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.530,C:\Users\shimh\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\shimh\Desktop\킹-델파이-계산기\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.530,C:\Users\shimh\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\shimh\Desktop\킹-델파이-계산기\Unit1.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.095,C:\Users\shimh\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\shimh\Desktop\킹-델파이-계산기\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="4c2154a3"/>
+	</ActiveMobileDevice>
+</BorlandProject>
